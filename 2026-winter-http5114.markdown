@@ -11,10 +11,10 @@
 
 ### Faculty
 
-|                                       | Name        | Profile                          |
-| ------------------------------------- | ----------- | -------------------------------- |
-| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
-
+|                                              | Name             | Profile                                           |
+| -------------------------------------        | -----------      | --------------------------------                  |
+| ![Adam Thomas](images/codeadamca.png)        | Adam Thomas      | [codeadamca](faculty/codeadamca)                  |
+| ![Lovepreet Sandhu](images/lovepreet0199.jpg)| Lovepreet Sandhu | [Lovepreet0199](https://github.com/Lovepreet0199) |
 
 [&#10132; Back to Class List](/)
 
